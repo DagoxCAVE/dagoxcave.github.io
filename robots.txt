@@ -1,0 +1,39 @@
+User-agent: *
+
+Disallow: /blog/
+
+Disallow: /
+
+Disallow: /blog/introduction/
+
+Disallow: /tags/blog/
+
+Disallow: /tags/introduction/
+
+Disallow: /tags/
+
+Disallow: /tags/website/
+
+Disallow: /commission_info/
+
+Disallow: /series/commissions/
+
+Disallow: /tags/commissions/
+
+Disallow: /series/
+
+Disallow: /commission_info/tier_i_painting/
+
+Disallow: /commission_info/process/
+
+Disallow: /commission_info/usage_and_rights/
+
+Disallow: /authors/
+
+Disallow: /categories/
+
+Disallow: /commissions/
+
+Disallow: /links/
+
+Disallow: /commission_info/what_i_do/
