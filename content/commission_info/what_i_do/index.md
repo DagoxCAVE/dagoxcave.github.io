@@ -16,10 +16,10 @@ showTableOfContents = true
 [<- Commissions Info]( {{<ref "commissions">}} )
 
 > [!NOTE]+
-> At the top and bottom of each article you can find a collapsible menu for additional navigation. 😀
+> At the top and bottom of each page you can find a collapsible menu for additional navigation. 😀
 
 {{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
-This page contains adults content, no minors are allowed!
+This page contains adults terms and definitions, no minors are allowed!
 {{< /alert >}}
 
 
@@ -29,7 +29,7 @@ This page contains adults content, no minors are allowed!
 <p>In general, I'm pretty flexible, in terms of what I'm ready to draw, despite the fact, that my personal preferences aren't that wide.</p>
 
 > [!NOTE]
-> Only things that that in <b>"Won't do"</b> section I won't draw. If something isn't in <b>"Will do"</b> but not directly in <b>"Won't do"</b>, I still might agree to draw that. Keep in mind, that I still may decline it.
+> Only things that that in <b>"Won't do"</b> section I won't draw. If something isn't in <b>"Will do"</b> but not directly in <b>"Won't do"</b>, I might agree to draw that. Keep in mind, that I still may decline it.
 
 ## Will do:
 <ul>
@@ -53,9 +53,9 @@ This page contains adults content, no minors are allowed!
     <li><b>Bipedal / Quadruped / Taurs</b>
         <ul>
             <li>Bipedals are ones, that moves on two limbs. That's, basically, the only ones I've ever drawn</li>
-            <li>Quadruped are ones, that moves on four limbs</li>
+            <li>Quadruped are ones, that moves on four limbs. Usually refered as "ferals" in the community</li>
             <li>Taurs are creatures, that combines quadruped and anthropomorphic anatomical structures.</li>
-            <li>Quadruped and taurs characters has never been drawn by me, but I understand their anatomical structure, so it'll be possible to draw them. Additional references will be welcomed</li>
+            <li>{{< important >}} Quadruped and taurs characters has never been drawn by me, but I understand their anatomical structure, so it'll be possible to draw them. Additional references will be welcomed</li>
         </ul>
     </li>
     <li><b>Additional limbs and traits</b>
@@ -65,7 +65,7 @@ This page contains adults content, no minors are allowed!
     </li>
     <li><b>Hyper</b>
         <ul>
-            <li>Something like really big muscles, huge dicks, wings, massive horns, etc. But to a certain degree, if it doesn't break character's proportions too much, compairing to something at least somewhat physically possible. I know, it's still quite vague definition, so if you're unsure, you can just ask me</li>
+            <li>Something like really big muscles, huge dicks, wings, massive horns, etc. But to a certain degree, if it doesn't break character's proportions too much. I know, it's still quite vague definition, so if you're unsure, you can just ask me</li>
         </ul>
     </li>
     <li><b>Goo / Simbiote</b>
@@ -75,7 +75,7 @@ This page contains adults content, no minors are allowed!
     </li>
     <li><b>Female</b>
         <ul>
-            <li>Never drew the, but technically, I understand female anatomy, so it's possible for me to draw them</li>
+            <li>Never drew them, but technically, I understand female anatomy, so it's possible for me to draw them</li>
             <li>Additional references will be welcomed</li>
         </ul>
     </li>
@@ -86,13 +86,13 @@ This page contains adults content, no minors are allowed!
     <li><b>Children</b>
         <ul>
             <li>The character must be physically and mentally mature. Even if it's ancient creature, that lived for several centuries, if it looks like a child and/or behaves like a child, it's still a child, no matter age</li>
-            <li>SFW commissions are <b>NOT</b> exception</li>
+            <li>SFW commissions are <b><span style="color: #e63946">NOT</span></b> exceptions</li>
         </ul>
     </li>
     <li><b>Humans</b>
         <ul>
             <li>Humanoid races, that has more beasty appearence like orcs are fine</li>
-            <li>Humans and humanoid races that looks too similar to humans (elves, dwarfs, etc) aren't fine</li>
+            <li>Humanoid races that looks too similar to humans (elves, dwarfs, etc) aren't fine</li>
         </ul>
     </li>
     <li>Round, ballon-like pectoral muscles</li>

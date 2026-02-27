@@ -16,13 +16,13 @@ tags = ['commissions']
 ## How you (client) may use the commissioned images
 <ul>
     <li>You can post it online</li>
-    <li>You can use it for private, non-commerial usage and any other actions, that involes getting profit</li>
+    <li>You can use it for private, non-commerial usage and any other actions, that doesn't involves getting profit</li>
     <li>You can use it for personal, non-private usage. This includes, but not limited to:
         <ul>
             <li>Use as a profile picture</li>
-            <li>Use it as a profile banner</li>
+            <li>Use as a profile banner</li>
             <li>Use as a print, for personal, non-commercial usage</li>
-            <li>Use as wallpaper</li>
+            <li>Use as a desktop wallpaper</li>
         </ul>
     </li>
     <li>If you transfer the usage rights to another person, this usage right will be applied to that person as well
@@ -38,8 +38,8 @@ tags = ['commissions']
     <li>I reserve the right to post high resolution images on any of my accounts</li>
     <li>I'll credit you as a commissioner, unless we've agreed for commission to be anonimous
         <ul>
-            <li>By default I'll use account you first contacted me</li>
-            <li>If you contacted me through EMail, I won't post your EMail address online</li>
+            <li>By default I'll use account you first contacted me, unless we discussed another one</li>
+            <li>If you contacted me through EMail, I won't post your EMail address online. If you won't tell me any links to your account, the commission will be marked as anonimous</li>
             <li>If you want me to include different account's link you have to tell me what they are</li>
         </ul>
     </li>

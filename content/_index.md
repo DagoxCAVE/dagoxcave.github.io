@@ -22,7 +22,7 @@ This web site contains adults content, no minors allowed to be here.
 
 ---
 
-{{< article link="/blog/introduction/" showSummary=true compactSummary=true >}}
+{{< article link="/blog/beginning/" showSummary=true compactSummary=true >}}
 
 
 

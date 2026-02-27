@@ -12,5 +12,5 @@ excludeFromSearch = true
     showWordCount = false
     showReadingTime = false
     # showPagination = false
-    showTableOfContents = false
+    # showTableOfContents = false
 +++
