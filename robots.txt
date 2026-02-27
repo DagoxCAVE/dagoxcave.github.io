@@ -4,7 +4,7 @@ Disallow: /blog/
 
 Disallow: /
 
-Disallow: /blog/introduction/
+Disallow: /blog/beginning/
 
 Disallow: /tags/blog/
 
