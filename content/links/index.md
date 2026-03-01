@@ -17,6 +17,7 @@ Fur Affinity Gallery: https://www.furaffinity.net/user/cyberdragontech
 
 BlueSky Page: https://bsky.app/profile/dagox.bsky.social
 
-My EMail: dagox.cdsh@gmail.com
+My EMail:
+{{< blank_image >}}
 
 Financial support: https://hipolink.net/dagox_the_dragonshark

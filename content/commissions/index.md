@@ -14,7 +14,10 @@ showTableOfContents = false
 +++
 
 {{<lead>}}
-Regarding commissions you can contact me through EMail dagox.cdsh@gmail.com or through [BlueSky DMs](https://bsky.app/profile/dagox.bsky.social)
+Regarding commissions you can contact me through [BlueSky DMs](https://bsky.app/profile/dagox.bsky.social)
+
+or through EMail 
+{{< blank_image >}}
 {{</lead>}}
 
 {{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}

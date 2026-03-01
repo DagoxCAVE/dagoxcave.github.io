@@ -13,7 +13,10 @@ tags = ['commissions']
 
 [<- Commissions Info]( {{<ref "commissions">}} )
 
-You can contact me through EMail dagox.cdsh@gmail.com or through [BlueSky DMs](https://bsky.app/profile/dagox.bsky.social).
+You can contact me through [BlueSky DMs](https://bsky.app/profile/dagox.bsky.social)
+
+or through EMail 
+{{< blank_image >}}
 
 If you contact me through BlueSky DMs, then WIPs will be sent using MEGA cloud service, since BlueSky itself doesn't allow sending images in DMs.
 
